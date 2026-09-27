@@ -86,14 +86,14 @@ Full-stack collaborative task management platform with a drag-and-drop Kanban bo
 
 🔗 [Live](https://taskflow-fe-beryl.vercel.app) · [API Docs](https://task-flow-be-eight.vercel.app/api-docs) · [Frontend Repo](https://github.com/VR1306/taskFlow-FE) · [Backend Repo](https://github.com/VR1306/taskFlow-BE)
 
-### 🩺 [AidPro](https://github.com/VR1306/aid-pro) — *Personal Project*
+### 🩺 [AidPro](https://aid-pro-108.vercel.app) — *Personal Project*
 CPR and first-aid training app with step-by-step emergency guides.
 - Covers CPR do's and don'ts, the Heimlich manoeuvre, the Valsalva manoeuvre, the AVPU responsiveness scale and the log-roll technique
 - Built with the Next.js App Router, React Compiler and Tailwind CSS v4 for a fast, responsive read on any device
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS`
 
-🔗 [Repo](https://github.com/VR1306/aid-pro)
+🔗 [Live](https://aid-pro-108.vercel.app) · [Repo](https://github.com/VR1306/aid-pro)
 
 ### 💼 Client Work
 
