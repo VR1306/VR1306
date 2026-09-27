@@ -86,6 +86,15 @@ Full-stack collaborative task management platform with a drag-and-drop Kanban bo
 
 🔗 [Live](https://taskflow-fe-beryl.vercel.app) · [API Docs](https://task-flow-be-eight.vercel.app/api-docs) · [Frontend Repo](https://github.com/VR1306/taskFlow-FE) · [Backend Repo](https://github.com/VR1306/taskFlow-BE)
 
+### 🩺 [AidPro](https://github.com/VR1306/aid-pro) — *Personal Project*
+CPR and first-aid training app with step-by-step emergency guides.
+- Covers CPR do's and don'ts, the Heimlich manoeuvre, the Valsalva manoeuvre, the AVPU responsiveness scale and the log-roll technique
+- Built with the Next.js App Router, React Compiler and Tailwind CSS v4 for a fast, responsive read on any device
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS`
+
+🔗 [Repo](https://github.com/VR1306/aid-pro)
+
 ### 💼 Client Work
 
 | Project | What it is | What I did | Stack |
@@ -93,7 +102,7 @@ Full-stack collaborative task management platform with a drag-and-drop Kanban bo
 | [**Yatra Prime**](https://www.yatra.com/prime) | Premium travel subscription platform | Modular dashboard architecture; Redux slices for nested subscription data; rebuilt checkout to reduce friction | React, Redux Toolkit, Axios, Sass |
 | [**Animeta AI**](https://animeta.ai/) | AI-backed creator growth platform | Real-time charts & metric modules for large datasets; App Router architecture with fast SSR | Next.js, TypeScript, Tailwind |
 | [**Comviva Mobilytix**](https://www.comviva.com/products-solutions/martech/mobilytix-real-time-marketing/) | Real-time marketing automation platform | Integrated real-time campaign APIs; campaign config workflows & engagement analytics | React, Redux, REST APIs |
-| **Telesat Lightspeed** | Enterprise satellite network portal | Faster, high-throughput monitoring tables; secure role-based client dashboards | React, REST APIs |
+| [**Telesat Lightspeed**](https://portal.pathway-sb.telesatlightspeed.net/auth/login) | Enterprise satellite network portal | Faster, high-throughput monitoring tables; secure role-based client dashboards | React, REST APIs |
 
 ---
 
