@@ -3,7 +3,8 @@
 
 <p align="center">
   I architect fast, secure interfaces that hold up under real traffic and real attackers.<br/>
-  4 years turning fragile frontends into ones that scale, load quickly, and never leak a token.
+  4+ years turning fragile frontends into ones that scale, load quickly, and never leak a token —<br/>
+  for global retail brands like <b>H&amp;M</b> and <b>Bath &amp; Body Works</b>, and enterprise platforms for <b>Comviva</b> and <b>Yatra</b>.
 </p>
 
 <p align="center">
@@ -17,11 +18,16 @@
 
 ## 🚀 About Me
 
-- 💼 **Senior Frontend Software Engineer** at **doodleblue Innovations**, Chennai
-- 🔐 Designed a **Zero-Trust frontend security model** (Next.js API proxy routes + automated token refresh) across 2 production apps
-- ⚡ Obsessed with performance — code splitting, lazy loading, and Core Web Vitals (FCP, LCP, TTI, CLS)
-- 🧪 Cut production bugs by **70–80%** by wiring ESLint, Prettier & Husky into CI
+- 💼 **Senior Frontend Software Engineer** at **doodleblue Innovations**, Chennai (March 2022 – Present)
+- 👥 Ship features for platforms serving **100K+ monthly active users** in bi-weekly Agile/Scrum sprints
+- 🔐 Designed a **Zero-Trust frontend security model** (Next.js API proxy routes, HTTP-only cookies, automated token refresh) across 2 production apps
+- ⚡ Cut initial JS bundle size by **25%+** with code splitting, lazy loading and tree shaking, reaching sub-second FCP
+- 📈 Raised H&M's mobile Lighthouse performance score from **64 → 92** and cut Time to Interactive by **35%**
+- 🎯 Lifted promotional click-through rate by **18%** with Adobe Target A/B testing for Bath & Body Works
+- ♿ Build to **WCAG 2.1 AA** — full keyboard navigation and screen reader support across checkout flows
+- 🧪 Cut production bug leakage by **40%+** by wiring Jest, React Testing Library, ESLint, Prettier & Husky into CI
 - 🧑‍🏫 Mentored **10 junior engineers** through 40+ hours of frontend training
+- 🤖 Use GitHub Copilot, Cursor and Claude AI to speed up scaffolding and code reviews
 - 🏆 **Rockstar of the Month** — doodleblue Innovations, July 2025
 - 🎓 B.Sc. Computer Science — Agurchand Manmull Jain College, Chennai
 - 📍 Chennai, India · **Open to new roles**
@@ -50,6 +56,17 @@
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
+**Adobe & E-Commerce**<br/>
+![Adobe Experience Cloud](https://img.shields.io/badge/Adobe_Experience_Cloud-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce_(Magento)-EE672F?style=flat-square&logo=magento&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Adobe Target](https://img.shields.io/badge/Adobe_Target-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+**Performance & Accessibility**<br/>
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![WCAG 2.1 AA](https://img.shields.io/badge/WCAG_2.1_AA-005A9C?style=flat-square&logo=w3c&logoColor=white)
+
 **Backend (full-stack projects)**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -62,6 +79,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-42B983?style=flat-square&logo=git&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 **Tools & Workflow**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -99,10 +117,12 @@ CPR and first-aid training app with step-by-step emergency guides.
 
 | Project | What it is | What I did | Stack |
 |---|---|---|---|
-| [**Yatra Prime**](https://www.yatra.com/prime) | Premium travel subscription platform | Modular dashboard architecture; Redux slices for nested subscription data; rebuilt checkout to reduce friction | React, Redux Toolkit, Axios, Sass |
-| [**Animeta AI**](https://animeta.ai/) | AI-backed creator growth platform | Real-time charts & metric modules for large datasets; App Router architecture with fast SSR | Next.js, TypeScript, Tailwind |
-| [**Comviva Mobilytix**](https://www.comviva.com/products-solutions/martech/mobilytix-real-time-marketing/) | Real-time marketing automation platform | Integrated real-time campaign APIs; campaign config workflows & engagement analytics | React, Redux, REST APIs |
-| [**Telesat Lightspeed**](https://portal.pathway-sb.telesatlightspeed.net/auth/login) | Enterprise satellite network portal | Faster, high-throughput monitoring tables; secure role-based client dashboards | React, REST APIs |
+| **H&M** *(Adobe engagement)* | Global fashion e-commerce | Modular PLP/PDP with multi-region locales, faceted filtering and infinite scroll; mobile Lighthouse **64 → 92**, TTI **−35%**; headless commerce + Adobe Analytics | React, Next.js, TypeScript, Tailwind, GraphQL |
+| **Bath & Body Works** *(Adobe engagement)* | Retail e-commerce & promotions | Flash-sale-ready campaign pages and bundle builders; Adobe Target A/B tests lifting CTR **18%**; WCAG 2.1 AA checkout | React, Redux Toolkit, Sass, Adobe Target |
+| [**Yatra Prime**](https://www.yatra.com/prime) | Premium travel subscription platform | Modular dashboard architecture; Redux slices for nested subscription data; rebuilt checkout, lifting conversions **25%+** | React, Redux Toolkit, Axios, Sass |
+| [**Animeta AI**](https://animeta.ai/) | AI-backed creator growth platform | Real-time charts at 60 FPS for large datasets; App Router SSR cutting initial data load time **40%** | Next.js, TypeScript, Tailwind |
+| [**Comviva Mobilytix**](https://www.comviva.com/products-solutions/martech/mobilytix-real-time-marketing/) | Real-time marketing automation platform | Virtualised tables handling **50,000+** records; error boundaries & retry logic; campaign config workflows | React, Redux, REST APIs, Highcharts |
+| [**Telesat Lightspeed**](https://portal.pathway-sb.telesatlightspeed.net/auth/login) | Enterprise satellite network portal | Faster, high-throughput monitoring tables; secure role-based (RBAC) client dashboards | React, REST APIs, Material UI |
 
 ---
 
