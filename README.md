@@ -117,8 +117,8 @@ CPR and first-aid training app with step-by-step emergency guides.
 
 | Project | What it is | What I did | Stack |
 |---|---|---|---|
-| **H&M** *(Adobe engagement)* | Global fashion e-commerce | Modular PLP/PDP with multi-region locales, faceted filtering and infinite scroll; mobile Lighthouse **64 → 92**, TTI **−35%**; headless commerce + Adobe Analytics | React, Next.js, TypeScript, Tailwind, GraphQL |
-| **Bath & Body Works** *(Adobe engagement)* | Retail e-commerce & promotions | Flash-sale-ready campaign pages and bundle builders; Adobe Target A/B tests lifting CTR **18%**; WCAG 2.1 AA checkout | React, Redux Toolkit, Sass, Adobe Target |
+| [**H&M**](https://www2.hm.com/) *(Adobe engagement)* | Global fashion e-commerce | Modular PLP/PDP with multi-region locales, faceted filtering and infinite scroll; mobile Lighthouse **64 → 92**, TTI **−35%**; headless commerce + Adobe Analytics | React, Next.js, TypeScript, Tailwind, GraphQL |
+| [**Bath & Body Works**](https://www.bathandbodyworks.com/) *(Adobe engagement)* | Retail e-commerce & promotions | Flash-sale-ready campaign pages and bundle builders; Adobe Target A/B tests lifting CTR **18%**; WCAG 2.1 AA checkout | React, Redux Toolkit, Sass, Adobe Target |
 | [**Yatra Prime**](https://www.yatra.com/prime) | Premium travel subscription platform | Modular dashboard architecture; Redux slices for nested subscription data; rebuilt checkout, lifting conversions **25%+** | React, Redux Toolkit, Axios, Sass |
 | [**Animeta AI**](https://animeta.ai/) | AI-backed creator growth platform | Real-time charts at 60 FPS for large datasets; App Router SSR cutting initial data load time **40%** | Next.js, TypeScript, Tailwind |
 | [**Comviva Mobilytix**](https://www.comviva.com/products-solutions/martech/mobilytix-real-time-marketing/) | Real-time marketing automation platform | Virtualised tables handling **50,000+** records; error boundaries & retry logic; campaign config workflows | React, Redux, REST APIs, Highcharts |
